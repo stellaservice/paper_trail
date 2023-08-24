@@ -6,6 +6,7 @@ recommendations of [keepachangelog.com](http://keepachangelog.com/).
 ## Unreleased
 
 - Provide option to disable association touch versions
+- Added `debounce_ms` option, to override versions within a specified period
 
 ### Breaking Changes
 
